@@ -32,7 +32,7 @@ pretension_Node,1,30000.0
 <img width="1152" height="413" alt="image" src="https://github.com/user-attachments/assets/d6a5fac1-4cac-49df-93ab-5e0455de9503" />
 #pretension section distance from bolt head should be 25% of shank length
 
-
+# in results global plastic strain will be calculated near to contacts area, at contacts region it may have.
 
 
 
