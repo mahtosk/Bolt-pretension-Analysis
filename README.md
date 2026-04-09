@@ -26,7 +26,7 @@ pretension_Node,1,30000.0
 <img width="597" height="627" alt="image" src="https://github.com/user-attachments/assets/770aa476-386d-4d26-995a-dfcc4f05587d" />
 <img width="547" height="382" alt="image" src="https://github.com/user-attachments/assets/3fdd4f00-fa75-4d6b-aac0-8667cedf171b" />
 <img width="546" height="390" alt="image" src="https://github.com/user-attachments/assets/8e55eccc-d079-466f-8218-e55369071ebf" />
-# it id dummy node, not belongs to any node of a model.
+# it(one node to the pretension) is dummy node, not belongs to any node of a model.
 # In Abaqus CAE
 <img width="480" height="502" alt="image" src="https://github.com/user-attachments/assets/f739a774-1e9e-4ca2-b95a-a8c075ca2954" />
 <img width="1152" height="413" alt="image" src="https://github.com/user-attachments/assets/d6a5fac1-4cac-49df-93ab-5e0455de9503" />
